@@ -16,5 +16,5 @@ app.use('/users', require('./routes/users'))
 app.use('/orders', require('./routes/orders'))
 
 app.use(typeError)
-
+alert("SALUDOS")
 app.listen(PORT, () => console.log(`http://localhost:${PORT}`))
