@@ -19,6 +19,6 @@ services:
     ports:
       - 27018:27018
     environment:
-      MONGO_INITDB_ROOT_USERNAME: arantzafrontend
-      MONGO_INITDB_ROOT_PASSWORD: K5u4vm8g37JeGjnN
+      MONGO_INITDB_ROOT_USERNAME: drus
+      MONGO_INITDB_ROOT_PASSWORD: Dr2563
       MONGO_INITDB_DATABASE: ecommerce
